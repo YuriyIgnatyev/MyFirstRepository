@@ -12,6 +12,8 @@ namespace HomeWork_22_05_2019
             a = Convert.ToInt32(Console.ReadLine());
             b = Convert.ToInt32(Console.ReadLine());
 
+
+
             if (b == 0) 
             {
                 Console.WriteLine("Вы ошиблись. Делитель не должен быть равен нулю.");
